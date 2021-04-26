@@ -4,4 +4,5 @@ public class s {
 
     private String name;
     private  int sl;
+    private String as;
 }
