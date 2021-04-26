@@ -30,5 +30,8 @@ public class UserinfoController {
       return   userInfoService.page(new Page<UserInfo>(pageNo,pageSize),null);
     }
 
+    public String ss(){
+        return null;
+    }
 
 }
